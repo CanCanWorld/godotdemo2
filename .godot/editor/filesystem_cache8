@@ -1,0 +1,15 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1733794986
+icon.svg::CompressedTexture2D::2838219109622776658::1733792848::1733792860::1::::<><>::
+::res://assets/::1733793099
+::res://assets/player/::1733816952
+char_green_1.png::CompressedTexture2D::130991797877516214::1733793301::1733793301::1::::<><>::
+char_green_2.png::CompressedTexture2D::6603673207439839947::1733816952::1733816953::1::::<><>::
+::res://assets/tile/::1733793364
+Tree-Assets.png::CompressedTexture2D::1910082808646404165::1733793364::1733793364::1::::<><>::
+::res://player/::1733816643
+player.tscn::PackedScene::5762201260761339569::1733816643::0::1::::<><>::uid://b4poevskckkk::::res://assets/player/char_green_1.png<>res://player/player.gd
+player.gd::GDScript::-1::1733815156::0::1::::<>CharacterBody2D<>::
+::res://world/::1733816643
+world.gd::GDScript::-1::1733803149::0::1::::<>Node2D<>::
+world.tscn::PackedScene::2365423114016932619::1733816643::0::1::::<><>::res://world/world.gd<>uid://2hi1xhps5deb::::res://assets/tile/Tree-Assets.png<>uid://codiu3rj132v2::::res://player/player.tscn
